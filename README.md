@@ -18,7 +18,8 @@ A personal portfolio website built using HTML, CSS, and JavaScript to showcase m
 
 ### 2. Portfolio Projects Section
 
-![Portfolio Projects](screenshots/projects.png)
+<img width="1898" height="989" alt="Screenshot 2026-10-22 090355" src="https://github.com/user-attachments/assets/70ade5d5-6499-4f7b-997a-9f511e4ec745" />
+
 
 *These image paths should point to screenshots of the actual website uploaded to this repository.*
 
